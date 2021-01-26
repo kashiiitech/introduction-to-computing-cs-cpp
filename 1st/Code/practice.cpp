@@ -1,3 +1,5 @@
+// there are many programs in cpp these programs are for begginers practice only
+
 #include<iostream>
 
 #include<string>
