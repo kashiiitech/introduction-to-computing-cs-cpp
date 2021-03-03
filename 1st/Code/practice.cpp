@@ -22,7 +22,7 @@ using namespace std;
 
     return 0;
 }*/
- //write a function which takes input from the user and calculate the square root of the function
+ //write a function which takes input from the user and calculate the square of the function
 
  /*int main(){
      int v;
